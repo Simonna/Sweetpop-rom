@@ -1,0 +1,34 @@
+﻿Listview+KangDroid Settings.
+
+Conflicts:
+	res/xml/dashboard_categories.xml
+#
+# It looks like you may be committing a cherry-pick.
+# If this is not correct, please remove the file
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    KangDroid <kangdroid@naver.com>
+#
+# On branch master
+# You are currently cherry-picking commit d96a446.
+#
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   res/drawable-hdpi/kangdroid_settings.png
+#	new file:   res/drawable-mdpi/kangdroid_settings.png
+#	new file:   res/drawable-xhdpi/kangdroid_settings.png
+#	new file:   res/values/ackdp_arrays.xml
+#	new file:   res/values/ackdp_strings.xml
+#	new file:   res/xml/dashboard_categories.xml
+#	new file:   res/xml/kangdroid_settings.xml
+#	new file:   res/xml/listview_settings.xml
+#	new file:   src/com/android/settings/cyanogenmod/KangDroidSettings.java
+#	new file:   src/com/android/settings/cyanogenmod/Listview.java
+#
+
